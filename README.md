@@ -4,7 +4,15 @@ My name is Tony Nguyen.
 
 I was a computer science major at the University of Oklahoma.
 
-Currently I'm learning about React, JavaScript, and TypeScript.
+My interest is in full-stack development.
+
+## Front-End
+ReactJS, JavaScript, TypeScript, HTML/CSS
+
+## Back-End
+Java, C#, Python, SQL
+
+Checkout my projects in the repo tab.
 
 [My LinkedIn](https://www.linkedin.com/in/tonydnguyen/)
 
