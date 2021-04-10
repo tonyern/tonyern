@@ -21,6 +21,9 @@ Java, C#, Python, SQL
 
 [My Website](https://tonyern.github.io)
 
+### Checkout my Repo
+Since you are here, check out my projects in the repo tab.
+
 <!---
 tonyern/tonyern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
