@@ -6,13 +6,16 @@ I was a computer science major at the University of Oklahoma.
 
 My interest is in full-stack development.
 
+Currently on the 100 days of code challenge and working on open-source projects.
+Looking for new entry-level opportunities.
+
 ## Front-End
 ReactJS, JavaScript, TypeScript, HTML/CSS
 
 ## Back-End
 Java, C#, Python, SQL
 
-Checkout my projects in the repo tab.
+## LinkedIn & Website
 
 [My LinkedIn](https://www.linkedin.com/in/tonydnguyen/)
 
