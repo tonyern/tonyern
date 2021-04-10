@@ -6,7 +6,7 @@ I was a computer science major at the University of Oklahoma.
 
 Currently I'm learning about React, JavaScript, and TypeScript.
 
-[My LinkedIn](https://github.com/tonyern)
+[My LinkedIn](https://www.linkedin.com/in/tonydnguyen/)
 
 [My Website](https://tonyern.github.io)
 
