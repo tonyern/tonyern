@@ -6,8 +6,8 @@ I was a computer science major at the University of Oklahoma.
 
 My interest is in full-stack development.
 
-Currently on the 100 days of code challenge and working on open-source projects.
-Looking for new entry-level opportunities.
+Currently working a development job and on open-source projects.
+Always open to new opportunities!
 
 ## Front-End
 ReactJS, JavaScript, TypeScript, HTML/CSS
