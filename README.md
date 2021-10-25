@@ -4,6 +4,8 @@ My name is Tony Nguyen.
 
 I was a computer science major at the University of Oklahoma.
 
+I am now work as a Development Engineer at ZennerUSA.
+
 My interest is in full-stack development.
 
 Currently working a development job and on open-source projects.
