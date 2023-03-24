@@ -4,18 +4,10 @@ My name is Tony Nguyen.
 
 I was a computer science major at the University of Oklahoma.
 
-I am now working as a Development Engineer at ZennerUSA.
-
-My interest is in full-stack development.
+I am now working as a Full-Stack Software Engineer at ZennerUSA.
 
 Currently working a development job and on open-source projects.
 Always open to new opportunities!
-
-## Front-End
-ReactJS, JavaScript, TypeScript, HTML/CSS
-
-## Back-End
-Java, C#, Python, SQL
 
 ## LinkedIn & Website
 
